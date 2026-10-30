@@ -132,10 +132,10 @@ header.site{ position: relative; z-index: 40; }
   color: inherit;
   font-weight:800; letter-spacing:-0.01em; font-size:.95rem;
 }
-.wordmark .kd-mark{ width:26px; height:29px; flex-shrink:0; }
-.wordmark .word-lockup{ display:flex; flex-direction:column; line-height:1; }
-.wordmark .word-big{ font-weight:800; font-size:.95rem; letter-spacing:.02em; text-transform:uppercase; }
-.wordmark .word-small{ font-size:.62rem; letter-spacing:.1em; text-transform:uppercase; opacity:.65; margin-top:1px; }
+.wordmark .logo-img{ display:block; height:56px; width:auto; flex-shrink:0; }
+footer.site .wordmark .logo-img{ height:88px; }
+.nav-row .wordmark .logo-img{ height:64px; }
+@media (min-width: 760px){ .nav-row .wordmark .logo-img{ height:76px; } }
 nav.links{ display:none; gap: 28px; font-weight:500; font-size:.92rem; }
 nav.links a:hover{ opacity:.7; }
 @media (min-width: 900px){ nav.links{ display:flex; } }
@@ -324,12 +324,6 @@ footer.site{ border-top:1px solid var(--gray-200); padding-block: 44px; margin-t
 .foot-grid a{ text-decoration:none; color:var(--gray-700); }
 .foot-legal{ margin-top: 30px; padding-top:20px; border-top:1px solid var(--gray-200); font-size:.78rem; color:var(--gray-500); display:flex; flex-wrap:wrap; gap:16px; justify-content:space-between; }
 .disclaimer{ font-size:.82rem; color:var(--gray-500); max-width: 74ch; margin-top:14px; }
-
-/* ---------- isotipo KD (siempre negro/blanco reversible) ---------- */
-.kd-mark .kd-bell, .kd-mark .kd-handle{ fill: var(--logo-ink); }
-.kd-mark .kd-initials{ fill: var(--logo-chalk); font-family:inherit; font-weight:800; }
-.kd-mark.on-dark .kd-bell, .kd-mark.on-dark .kd-handle{ fill: var(--logo-chalk); }
-.kd-mark.on-dark .kd-initials{ fill: var(--logo-ink); }
 
 @media (prefers-reduced-motion: no-preference){
   .rise{ animation: rise .6s ease both; }
