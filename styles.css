@@ -220,6 +220,12 @@ nav.links a:hover{ opacity:.7; }
 .photo-card-alegria img{ object-position:center 22%; }
 .photo-card-potencia img{ object-position:center 22%; }
 .photo-card-comunidad img{ object-position:center 32%; }
+.photo-grid.cols-pilares{ gap:14px; }
+@media (min-width:600px){ .photo-grid.cols-pilares{ grid-template-columns:repeat(2,1fr); } }
+@media (min-width:1000px){ .photo-grid.cols-pilares{ grid-template-columns:repeat(3,1fr); } }
+.photo-card-pilar{ aspect-ratio:2/3; }
+.photo-card-pilar img{ object-position:center bottom; }
+.photo-card-pilar::after{ display:none; }
 .photo-card::after{ content:""; position:absolute; inset:0; background:linear-gradient(0deg, rgba(0,0,0,.58) 0%, transparent 42%); }
 .photo-card figcaption{ position:absolute; left:16px; bottom:14px; z-index:1; color:#fff; font-weight:700; font-size:1.05rem; }
 
