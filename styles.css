@@ -370,7 +370,7 @@ html:not([lang="en"]) [data-lang-block="en"]{ display:none; }
 .post-stages{ margin:0; padding-left:1.3em; display:flex; flex-direction:column; gap:12px; }
 .post-stages strong{ color:var(--ink); }
 .post-figure{ margin:12px 0; }
-.post-figure img{ width:100%; max-width:420px; border-radius:var(--radius-m); }
+.post-figure img{ width:100%; max-width:200px; border-radius:var(--radius-m); }
 .post-figure figcaption{ color:var(--gray-500); font-size:.9rem; margin-top:8px; }
 .post-sign{ margin-top:16px; color:var(--ink); }
 .post-disclaimer{ max-width:var(--measure); margin:48px auto 0; padding-top:20px; border-top:1px solid var(--gray-200); color:var(--gray-500); font-size:.9rem; }
