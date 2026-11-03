@@ -464,6 +464,10 @@
       var key = el.getAttribute("data-i18n-alt");
       if (dict[key] !== undefined) el.setAttribute("alt", dict[key]);
     });
+    document.querySelectorAll("[data-src-es]").forEach(function (el) {
+      var src = el.getAttribute(lang === "en" ? "data-src-en" : "data-src-es");
+      if (src && el.getAttribute("src") !== src) el.setAttribute("src", src);
+    });
     document.querySelectorAll("[data-i18n-placeholder]").forEach(function (el) {
       var key = el.getAttribute("data-i18n-placeholder");
       if (dict[key] !== undefined) el.setAttribute("placeholder", dict[key]);
