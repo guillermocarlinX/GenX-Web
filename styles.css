@@ -216,6 +216,8 @@ nav.links a:hover{ opacity:.7; }
 .photo-card{ position:relative; aspect-ratio:3/4; border-radius: var(--radius-m); overflow:hidden; margin:0; }
 .photo-card img{ width:100%; height:100%; object-fit:cover; object-position:center; }
 .photo-card-inicio img{ object-position:center 8%; }
+.photo-card-intermedio img{ object-position:center 20%; }
+.photo-card-avanzado img{ object-position:center 60%; }
 .photo-card-fuerza img{ object-position:center 25%; }
 .photo-card-alegria img{ object-position:center 22%; }
 .photo-card-potencia img{ object-position:center 22%; }
