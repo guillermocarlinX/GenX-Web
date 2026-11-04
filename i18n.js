@@ -299,7 +299,7 @@
       "historia.alt_xray_lat": "Lateral X-ray of Karla's spine showing the screw fixation",
       "historia.alt_xray_front": "Frontal X-ray of Karla's spine showing the screw fixation",
       "historia.alt_hoy": "Karla Dellepiane standing with a kettlebell overhead today",
-      "caption.tornillos": "Six screws",
+      "caption.tornillos": "Six nails",
       "caption.hoy": "Today",
 
       "beneficios.eyebrow": "Why GENX",
