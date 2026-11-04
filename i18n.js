@@ -57,7 +57,7 @@
       "historia.alt_portrait": "Retrato de Karla Dellepiane",
       "historia.alt_xray_lat": "Radiografía lateral de la columna de Karla con la fijación de tornillos",
       "historia.alt_xray_front": "Radiografía frontal de la columna de Karla con la fijación de tornillos",
-      "historia.alt_hoy": "Karla Dellepiane entrenando estabilidad con banda de resistencia hoy",
+      "historia.alt_hoy": "Karla Dellepiane de pie con un kettlebell sobre la cabeza hoy",
       "caption.tornillos": "Seis tornillos",
       "caption.hoy": "Hoy",
 
@@ -298,7 +298,7 @@
       "historia.alt_portrait": "Portrait of Karla Dellepiane",
       "historia.alt_xray_lat": "Lateral X-ray of Karla's spine showing the screw fixation",
       "historia.alt_xray_front": "Frontal X-ray of Karla's spine showing the screw fixation",
-      "historia.alt_hoy": "Karla Dellepiane training stability with a resistance band today",
+      "historia.alt_hoy": "Karla Dellepiane standing with a kettlebell overhead today",
       "caption.tornillos": "Six screws",
       "caption.hoy": "Today",
 
