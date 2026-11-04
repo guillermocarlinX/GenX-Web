@@ -62,7 +62,7 @@
       "caption.hoy": "Hoy",
 
       "beneficios.eyebrow": "Por qué GENX",
-      "beneficios.h2": "Pensado para el cuerpo que tienes hoy, no para el que tenías a los 20.",
+      "beneficios.h2": "Aprende a escuchar tu cuerpo.<br>Conecta tu respiración con el movimiento.<br>Integra fuerza, movilidad y estabilidad.<br>Transforma lo aprendido en autonomía.",
       "benefit1.h": "Entrenamientos seguros para la espalda y las articulaciones",
       "benefit1.p": "Cada progresión está diseñada considerando lesiones previas, cirugías y limitaciones reales. No es fitness genérico.",
       "benefit2.h": "Progresiones para principiantes absolutas",
@@ -303,7 +303,7 @@
       "caption.hoy": "Today",
 
       "beneficios.eyebrow": "Why GENX",
-      "beneficios.h2": "Designed for the body you have today, not the one you had at 20.",
+      "beneficios.h2": "Learn to listen to your body.<br>Connect your breathing with movement.<br>Integrate strength, mobility and stability.<br>Transform what you learn into autonomy.",
       "benefit1.h": "Training that's safe for your back and joints",
       "benefit1.p": "Every progression is designed with past injuries, surgeries, and real limitations in mind. This isn't generic fitness.",
       "benefit2.h": "Progressions for absolute beginners",

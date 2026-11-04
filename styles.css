@@ -241,6 +241,9 @@ nav.links a:hover{ opacity:.7; }
 .level ul{ margin:0; padding-left:1.1em; color:var(--gray-700); font-size:.92rem; display:flex; flex-direction:column; gap:6px; }
 
 /* ---------- beneficios ---------- */
+.section-head.section-head-center{ text-align:center; margin-left:auto; margin-right:auto; max-width:900px; }
+.section-head-center .eyebrow{ text-align:center; }
+.section-head .h2-lines{ font-size:clamp(1.25rem,2.6vw,1.9rem); line-height:1.35; }
 .benefits{ display:grid; gap:0; grid-template-columns:1fr; }
 @media (min-width:760px){ .benefits{ grid-template-columns:1fr 1fr; } }
 .benefit{ padding:22px 24px 22px 0; border-top:1px solid var(--gray-200); }
