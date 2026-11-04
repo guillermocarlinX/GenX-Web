@@ -58,7 +58,7 @@
       "historia.alt_xray_lat": "Radiografía lateral de la columna de Karla con la fijación de tornillos",
       "historia.alt_xray_front": "Radiografía frontal de la columna de Karla con la fijación de tornillos",
       "historia.alt_hoy": "Karla Dellepiane de pie con un kettlebell sobre la cabeza hoy",
-      "caption.tornillos": "Seis tornillos",
+      "caption.tornillos": "Seis clavos",
       "caption.hoy": "Hoy",
 
       "beneficios.eyebrow": "Por qué GENX",
